@@ -17,7 +17,7 @@
         android:textColor= "#ffff"
 
         android:background="@drawable/rounded_corner"
-        android:layout_margin="7dp"
+        android:layout_margin="0dp"
         >
 
     </TextView>
